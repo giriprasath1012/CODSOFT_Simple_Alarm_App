@@ -22,6 +22,8 @@ This Simple Alarm App, developed using Android Studio and Java, provides a user-
 ### 6. Stop Function
    - Quickly stop alarms with a single tap, ensuring a seamless and responsive user experience.
 
+##Apk File https://drive.google.com/file/d/1Fr5n3hxxdPTPTUC3hktl8qQ1XWLPwIg7/view?usp=drive_link
+
 ## Technology Stack
 
 - **Android Studio**: The official integrated development environment for Android app development.
